@@ -23,7 +23,7 @@ section{
 .welcome-container{
     display: flex;
     flex-direction: column;
-    background-color: blue;
+    background-color:  rgb(18, 154, 199);
     width: 40%;
     height: 100%;
     text-align: center;
@@ -79,7 +79,7 @@ label[for="email"] {
     height: 40px;
     border-radius: 5px;
     border:  1px solid rgb(219, 217, 217);
-    outline-color: blue;
+    outline-color:  rgb(18, 154, 199);
 }
 label[for="password"] {
     width: 365px;
@@ -90,7 +90,7 @@ label[for="password"] {
     height: 40px;
     border-radius: 5px;
     border:  1px solid rgb(219, 217, 217);
-    outline-color: blue;
+    outline-color:  rgb(18, 154, 199);
 }
 .forgot-password{
     width: 365px;
@@ -99,12 +99,12 @@ label[for="password"] {
 }
 a{
     text-decoration: none;
-    color: blue;
+    color:  rgb(18, 154, 199);
 }
 .info .log-in{
     width: 365px;
     line-height: 40px;
-    background-color: blue;
+    background-color:  rgb(18, 154, 199);
     color: white;
     font-size: medium;
     border: none;
@@ -137,7 +137,7 @@ a{
 .signin .facebook{
     padding: 10px 50px;
     color: white;
-    background-color: blue;
+    background-color:  rgb(18, 154, 199);
     border-radius: 5px;
 }
 .signin .facebook:hover{
