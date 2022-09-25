@@ -137,11 +137,11 @@ a{
 .signin .facebook{
     padding: 10px 50px;
     color: white;
-    background-color:  rgb(18, 154, 199);
+    background-color: rgb(41, 41, 213);
     border-radius: 5px;
 }
 .signin .facebook:hover{
-    background-color: rgb(24, 24, 206);
+    background-color: rgb(18, 154, 199);
     transition: 0.5s;
 }
 .signin .google{
